@@ -1,0 +1,11 @@
+.email-result {
+    padding: 1.25rem;
+    background-color: #e9ecef;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+.email-address {
+    font-size: 1.25rem;
+    color: #333;
+}
